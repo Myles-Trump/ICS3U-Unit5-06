@@ -2,7 +2,7 @@
 
 # Created by: Myles Trump
 # Created on: May 2021
-# This program formats your address
+# This program rounds decimals
 
 
 def rounding(rounding_num, decimal):
